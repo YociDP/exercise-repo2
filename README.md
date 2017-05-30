@@ -1,3 +1,5 @@
 # exercise-repo2
+This project will contain....
 Repo made for exercise
-We resolved the conflict!
+Edited again in master branch
+
