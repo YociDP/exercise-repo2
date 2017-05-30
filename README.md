@@ -1,3 +1,3 @@
 # exercise-repo2
 Repo made for exercise
-Penchev e bronzak
+Making some changes!
